@@ -17,7 +17,7 @@ I got to learn a lot during these 7 days and it was an amazing experience learni
 <br><br>Here's the link for you to watch the sessions as well<br>
  
 <a href="https://www.youtube.com/channel/UCyG-UNr0u8rIb3Dxq2TAZ9A"> 
-  <img src="https://www.google.com/search?q=theCodescholar+image&rlz=1C1CHZL_enIN847IN847&sxsrf=ALeKk026isYswTSZTBNIjEgSC1QXDd-f5A:1623597533373&tbm=isch&source=iu&ictx=1&fir=W55_PA8oc2BZ6M%252CgZ02zJkBLwMAUM%252C_&vet=1&usg=AI4_-kQmqiCiEgaAlHQllhvvMbroi63LXA&sa=X&ved=2ahUKEwjjjvCR9JTxAhVA4zgGHYSJBJ4Q9QF6BAgNEAE#imgrc=W55_PA8oc2BZ6M"> </a>
+  <img src="https://pbs.twimg.com/profile_images/1382604569427931138/IizcwUvd_400x400.jpg"> </a>
 
 
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
