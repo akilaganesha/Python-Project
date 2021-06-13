@@ -16,7 +16,7 @@ I got to learn a lot during these 7 days and it was an amazing experience learni
 
 <br><br>Here's the link for you to watch the sessions as well<br>
  
-<a href="https://www.youtube.com/watch?v=feCL8qbjgN0&list=PL3Hnv9OFTJvW4zFKj0qXOpkoNe4AQTzCF&index=1"> 
+<a href="https://www.youtube.com/channel/UCXmzhqCQKCAFt3jbOC40F3A/videos"> 
   <img src="https://github.com/thecodescholar/tcs_data/blob/main/PYTHON%20AND%20MACHINE%20LEARNING.png"> </a>
 
 
